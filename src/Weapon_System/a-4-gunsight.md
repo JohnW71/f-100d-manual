@@ -12,7 +12,7 @@ The system can also be used for ground attack using either a fixed sight where p
 
 ### Mechanical Cage Lever
 
-The mechanical cage lever cages the sight to the boresight. With the sight mechanically caged, the reticle is fixed, and its sizee size is determined by the wingspan lever.
+The mechanical cage lever cages the sight to the boresight. With the sight mechanically caged, the reticle is fixed, and its size is determined by the wingspan lever.
 
 ![Mechanical Cage Lever](./img/mechanical_cage_lever.png)
 
@@ -45,7 +45,7 @@ The brightness of the reticle can be adjusted using the Sight Dimmer rheostat (d
 
 ### Sight Filament Selector Switch
 
-The primary or secondary filament in the dual-filament sight reticle bulb powered by the secondary bus and the tertiary bus. Select the filmane using the filament selector switch (dial 1 below). If the primary filament fails, set the switch to the **SECONDARY** position.
+The primary or secondary filament in the dual-filament sight reticle bulb powered by the secondary bus and the tertiary bus. Select the filamant using the filament selector switch (dial 1 below). If the primary filament fails, set the switch to the **SECONDARY** position.
 
 ![Radar Range Sweep Knob Image](./img/aux_panel.png)
 
@@ -112,7 +112,7 @@ This switch sets the effective velocity of the own aircraft and the closure rate
 
 ## Operation
 
-The A-4 gunsight can be used in air-to-air or air-to-ground operation. The [sight selector](#sight-selector) selects each modes of operation as described below.
+The A-4 gunsight can be used in air-to-air or air-to-ground operation. The [sight selector](#sight-selector) selects each mode of operation as described below.
 
 If the sight select mode is in manual, the armament mode is in bombs or napalm, and the bomb-arm switch is in SAFE, the gunsight pipper extinguishes, indicating a dud would be dropped off the aircraft.
 
@@ -132,7 +132,7 @@ The range is controlled automatically by the radar, or manually using the [throt
 
 The radar automatically locks onto any sufficiently strong reflections, including the ground. The range is indicated on the [range dial](#range-dial). If the range doesn't match the desired target, the target can be rejected using the [radar reject button](#radar-reject-button), initiating a new scan starting at the minimum range. If no targets are found by the time the scan reaches its maximum range, the scan begins again at the minimum range.
 
-Range is validated by using the [wingspan lever](#wingspan-lever) to set the wingspan of the current target on the gunsight. Then, the target is at the correct range when the wingspan matches inside of the reticle's tick marks.
+Range is validated by using the [wingspan lever](#wingspan-lever) to set the wingspan of the current target on the gunsight. The target is at the correct range when the wingspan matches inside of the reticle's tick marks.
 
 #### Gunnery
 
