@@ -6,7 +6,7 @@ The AIM-9 sidewinder is a short range infrared guided missile introduced in 1956
 
 The Sidewinder is a passive infrared guided missile. The missile is aimed using the [A-4 Gunsight](./a-4-gunsight.md#a-4-gunsight) with the sight [mechanically or electrically caged](./a-4-gunsight.md#mechanical-cage-lever).
 
-The missile generates a tone based on received infrared radiation into its seeker, which is transmitted to the pilot headphones. A low growl indicates little to no infrared radiation detected, and a higher-and-louder growl indicates a heat source, indicated a possible detected target. The growl only indicates the ability for the seeker to track, but not anything about range, or whether the missile can maneuver to the target.
+The missile generates a tone based on received infrared radiation into its seeker, which is transmitted to the pilot headphones. A low growl indicates little to no infrared radiation detected, and a higher-and-louder growl indicates a heat source, indicating a possible detected target. The growl only indicates the ability for the seeker to track, but not anything about range, or whether the missile can maneuver to the target.
 
 The F-100D can carry two Sidewinders on a Type IX launcher on each of the inboard pylons, for a total of four missiles.
 
@@ -26,7 +26,7 @@ Additionally, the max launch G was increased from 2–7.33 G, allowing launches 
 
 #### AIM-9J
 
-Introduced in 1972, the J contniued to improve the seeker max track rate, and a time between launch and missile maneuvering reduced from 0.5 to 0.3 seconds.
+Introduced in 1972, the J continued to improve the seeker max track rate, and the time between launch and missile maneuvering reduced from 0.5 to 0.3 seconds.
 
 ## Controls
 
@@ -46,7 +46,7 @@ This panel is responsible for:
 
 ### Missile Volume Control
 
-This adjust the volume of the Sidewinder in the headset.
+This adjusts the volume of the Sidewinder in the headset.
 
 ### Station Bypass
 
