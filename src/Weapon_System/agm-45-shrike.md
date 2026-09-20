@@ -12,13 +12,13 @@ The Shrike is passive, and guides on the signals radiated by the enemy surface r
 
 ### Radio Seeker
 
-The radio seeker of the Shrike determines what radars can be tracked. Narrow band radio seekers were used target specific radar systems. These seekers could be swapped out to attack the specific threat dictated by the mission. The RF Guidance Unit can be changed on the AGM-45 in the mission settings and in the weapon rearming menu by clicking the orange triangle in the top left corner of the Shrike icon and selecting a Guidance Unit.
+The radio seeker of the Shrike determines what radars can be tracked. Narrow band radio seekers were used to target specific radar systems. These seekers could be swapped out to attack the specific threat dictated by the mission. The RF Guidance Unit can be changed on the AGM-45 in the mission settings and in the weapon rearming menu by clicking the orange triangle in the top left corner of the Shrike icon and selecting a Guidance Unit.
 
 ![seeker selection screen](./img/shrike_seeker_select.png)
 
 ### Dive Bypass
 
-In addition to the radio seekers. the Shrike has two guidance modes that affect trajectory of the missile: loft and dive bypass (direct attack). These settings can also be found in the same menu as the Guidance Seeker options.
+In addition to the radio seekers. the Shrike has two guidance modes that affect the trajectory of the missile: loft and dive bypass (direct attack). These settings can also be found in the same menu as the Guidance Seeker options.
 
 ![seeker loft screen](./img/shrike_attack_mode.png)
 
@@ -50,13 +50,13 @@ Any audio indicates incoming signals detected by the radio seeker. These signals
 
 ### Course and Glideslope Needles
 
-When a Shrike is powered and selected, the [course and glideslope needles](#course-and-glideslope-needles) will indicate the error in pitch and yaw between the seeker boresight and the detected incoming radiation. This allows the pilot to steer the aircraft onto the source of the radiation and by keeping the vertical and horizontal deviations bars centered you is pointed at the detected signal.
+When a Shrike is powered and selected, the [course and glideslope needles](#course-and-glideslope-needles) will indicate the error in pitch and yaw between the seeker boresight and the detected incoming radiation. This allows the pilot to steer the aircraft onto the source of the radiation and by keeping the vertical and horizontal deviations bars centered it will be pointed at the detected signal.
 
 ![shrike course needles](./img/shrike_course_gauge.png)
 
 ### Sidewinder Volume Knob
 
-The sidewinder volume knob on the missile control panel adjusts Shrike audio in the headset.
+The sidewinder volume knob on the missile control panel adjusts the Shrike audio in the headset.
 
 ## Operation
 
