@@ -22,9 +22,9 @@ The dials for setting the pull up time for LABS and LABS ALT (Left) and LADD (Ri
 
 ## Operation
 
-All LABS delivery modes share the pullup timer. The pullup timer is the time set by the pilot to indicate the time taken for the aircraft to fly from a know identification point (IP) to the pullup point. 
+All LABS delivery modes share the pullup timer. The pullup timer is the time set by the pilot to indicate the time taken for the aircraft to fly from a known identification point (IP) to the pullup point. 
 
-There are two variables which determine what the pullup timer should be set to:
+There are three variables which determine what the pullup timer should be set to:
 
 - Ground speed
 - Bomb travel distance
